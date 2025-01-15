@@ -1,79 +1,83 @@
 # Wenda Gu  
-Shanghai, China | +86-18916718618 | wendagu98@gmail.com | [Github](https://github.com/wenda-gu) | [LinkedIn](https://www.linkedin.com/in/wenda-gu/)
+Shanghai, China | +86-18916718618 | wendagu98@gmail.com | [GitHub](https://github.com/wenda-gu) | [LinkedIn](https://www.linkedin.com/in/wenda-gu/)
+
+---
+
+## Objective  
+I am a dedicated software engineer with expertise in artificial intelligence, machine learning, and full-stack development. My goal is to build innovative, user-focused solutions that enhance business growth and improve daily life. I excel in solving complex problems, developing efficient systems, and collaborating within teams to deliver high-quality results.
 
 ---
 
 ## Key Skills  
 
-- **Programming Languages:** Python, Java, JavaScript, C/C++, HTML/CSS, SQL  
 - **AI and Machine Learning:** NLP, Large Language Models, Speech Processing, Real-time AI Systems  
-- **Tools and Platforms:** AWS (Certified Solutions Architect), Cloud Development 
-- **Specialty Areas:** Full-stack Development, AI Integration, Edge Computing
-- **Certifications:** AWS Certified Solutions Architect – Associate
+- **Tools and Platforms:** AWS (Certified Solutions Architect), Tencent Cloud, Git, Linux  
+- **Development Practices:** Test-Driven Development (TDD), Agile, Team Collaboration Tools (Jira, Trello)  
+- **Specialty Areas:** Full-stack Development, AI Integration, Edge Computing  
+- **Programming Languages:** Python, Java, JavaScript, C/C++, HTML/CSS, SQL  
+- **Languages:** Fluent in English and Mandarin; Conversational Japanese; Intermediate French  
+- **Certifications:** AWS Certified Solutions Architect – Associate  
 
 ---
 
 ## Professional Experience  
 
-### Full Stack Software Engineer  
+### Software Engineer - Full Stack   
 **Shanghai Bluesea Medical Technology Co., Ltd.** | May 2024 – Present  
 
-- **Developed Tools to Save Time:** Built a Python application to create name cards, badges, and slides for conferences. Reduced processing time from 3 hours to 10 minutes, improving efficiency by 1800%.  
-- **Improved User Experience:** Designed a user-friendly interface using Tkinter, making the tool easy to use for non-technical staff.  
+- **Automated Repetitive Tasks:** Developed a Python tool that generates conference materials (name cards, badges, slides), reducing processing time from 3 hours to 10 minutes and improving productivity by 1800%.  
+- **User-Centered Design:** Designed an intuitive Tkinter-based interface with system theme detection, enabling non-technical staff to use the tool with ease.  
+- **Collaborative Problem-Solving:** Worked closely with internal teams to refine requirements and ensure the tool met operational needs.  
 
 ### Software Engineering Intern  
 **Shanghai Bluesea Medical Technology Co., Ltd.** | Nov 2022 – Mar 2023  
 
-- **Prototyped Mobile Applications:** Created a WeChat Mini Program using HTML, CSS, and JavaScript for easy user access.  
-- **Enhanced Data Handling:** Processed over 35,000 entries, boosting data access speed by over 115,200%.  
-- [GitHub Project](https://github.com/wenda-gu/demo_mini_program).  
+- **Developed Mobile Prototypes:** Created a WeChat Mini Program for user-friendly access, leveraging Tencent Cloud development tools. [Demo Project](https://github.com/wenda-gu/demo_mini_program)  
+- **Enhanced Efficiency:** Processed over 35,000 data entries with Python and pandas, reducing data handling time by 99% and enabling faster analysis.  
+- **Cross-Team Collaboration:** Partnered with design and data teams to improve project outcomes and streamline workflows.  
 
 ---
 
 ## Projects  
 
-### Japanese Language Learning AI Companion [In Progress]  
-**December 2024**  
+### Music Note Detection Plugin Powered by Pretrained Machine Learning Models [In Progress]  
+**Jan 2024 – Present**  
+- **Objective:** Convert audio input into polyphonic MIDI notes for music production.  
+- **Approach:** Leveraged pretrained ML models (CREPE, Onsets and Frames, Deep Salience, OpenMusic pitch extraction) for note detection.  
+- **Innovation:** Provided users the flexibility to choose models based on their specific needs.  
+- **Outcome:** Developing a versatile and efficient tool for musicians and producers to streamline music production workflows.  
 
-- **Focus on Privacy:** Developed a real-time Japanese learning assistant using a local AI model (Llama 3.1 Swallow).  
-- **Multimodal Interaction:** Integrated voice recognition and text-based chat for natural conversations.  
-- **Hardware Optimization:** Deployed on NVIDIA Jetson Orin Nano for efficient processing.  
+### Japanese Language Learning AI Companion [In Progress]  
+**Dec 2024 – Present**  
+- **Objective:** Create a real-time language learning tool for Japanese, focusing on natural interactions.  
+- **Approach:** Integrated Llama 3.1 Swallow model, deployed on NVIDIA Jetson Orin Nano. Added speech-to-text and text-to-speech for seamless conversations.  
+- **Innovation:** Dual-mode functionality (voice and web-based chat) with on-device processing to ensure user privacy.  
+- **Outcome:** Building a practical and engaging tool to support personalized language learning.  
 
 ### Language Model Translation System: Code-to-Pseudocode  
 **March 2024 – April 2024**  
 
-- **Objective:** Simplified debugging and communication of programming logic by translating code to pseudocode.  
+- **Objective:** Simplify debugging and communication of programming logic by translating code into pseudocode.  
 - **Approach:** Implemented Python-based solutions using RNN, Transformer, and CodeLlama architectures.  
 - **Innovation:** Developed custom evaluation metrics (BLEU, ROUGE, semantic similarity) to measure translation quality.  
-- **Outcome:** Fine-tuned CodeLlama-7b with PEFT for efficient model adaptation.  
-- **Publication:** [Paper Link](https://www.linkedin.com/in/wenda-gu/details/featured/1736414206055/)  
+- **Outcome:** Fine-tuned CodeLlama-7b with PEFT for efficient adaptation.  
+- **Publication:** [Pseudocoder: An Analysis of Various Architectures on Python Code-To-Pseudocode Translation](https://www.linkedin.com/in/wenda-gu/details/featured/1736414206055/)  
 
 ### Language Models for Actionable Robot Instructions  
 **November 2020 – May 2022**  
 
-- **Objective:** Enabled robots to execute real-world tasks using instructions generated by AI.  
-- **Approach:** Integrated supervised learning into the ALFRED robotics framework and optimized training pipelines for multi-core GPU systems.  
-- **Outcome:** Contributed to the AAAI 2023 publication detailing AI-robot interaction.  
+- **Objective:** Enable robots to execute real-world tasks using AI-generated instructions.  
+- **Approach:** Integrated supervised learning into the ALFRED robotics framework, optimizing training for multi-core GPU systems.  
+- **Outcome:** Contributed to the AAAI 2023 publication on AI-robot interaction.  
 - **Publication:** [AAAI 2023 Paper: On Grounded Planning for Embodied Tasks with Language Models](https://arxiv.org/abs/2209.00465)  
 
 ---
 
 ## Education  
 
-**Bachelor of Science, Computational Linguistics; Minor, Architecture**  
-University of Southern California | Aug 2024 
+**Bachelor of Science, Computational Linguistics**  
+**Minor, Architecture**  
+University of Southern California | Aug 2017 – Aug 2024  
 
-**Core Class Grades**  
-CSCI 499 Language Models in Natural Language Processing | A-  
-LING 487 Speech Synthesis and Recognition | A  
-LING 385 Human Language as Computation | A-  
-
-**Dean's List**  
-Fall 2023, Fall 2019
-
----
-
-## Additional Information  
-
-- **Languages:** Fluent English and Chinese; Intermediate French; Conversational Japanese  
-- **Hobbies:** Music (play bass, guitar, and keyboard), sailing, bouldering, hiking
+- **Relevant Coursework:** Natural Language Processing, Speech Synthesis and Recognition, Human Language as Computation  
+- **Dean's List:** Fall 2023, Fall 2019  
