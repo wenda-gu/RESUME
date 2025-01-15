@@ -4,7 +4,7 @@ Shanghai, China | +86-18916718618 | wendagu98@gmail.com | [GitHub](https://githu
 ---
 
 ## Objective  
-I am a dedicated software engineer with expertise in artificial intelligence, machine learning, and full-stack development. My goal is to build innovative, user-focused solutions that enhance business growth and improve daily life. I excel in solving complex problems, developing efficient systems, and collaborating within teams to deliver high-quality results.
+I am a dedicated software engineer with expertise in artificial intelligence, machine learning, and full-stack development. My goal is to build innovative, user-focused solutions that enhance business growth and improve daily life. I excel in solving complex problems, developing efficient systems, and contributing to team success through precision and collaboration.
 
 ---
 
@@ -49,12 +49,12 @@ I am a dedicated software engineer with expertise in artificial intelligence, ma
 ### Japanese Language Learning AI Companion [In Progress]  
 **Dec 2024 – Present**  
 - **Objective:** Create a real-time language learning tool for Japanese, focusing on natural interactions.  
-- **Approach:** Integrated Llama 3.1 Swallow model, deployed on NVIDIA Jetson Orin Nano. Added speech-to-text and text-to-speech for seamless conversations.  
+- **Approach:** Integrated Llama 3.1 Swallow model, deployed on specialized hardware for efficient processing. Added speech-to-text and text-to-speech for seamless conversations.  
 - **Innovation:** Dual-mode functionality (voice and web-based chat) with on-device processing to ensure user privacy.  
 - **Outcome:** Building a practical and engaging tool to support personalized language learning.  
 
 ### Language Model Translation System: Code-to-Pseudocode  
-**March 2024 – April 2024**  
+**March 2024 – April 2024, [CSCI499@USC](https://swabhs.com/sp24-csci499-lm4nlp/)**  
 
 - **Objective:** Simplify debugging and communication of programming logic by translating code into pseudocode.  
 - **Approach:** Implemented Python-based solutions using RNN, Transformer, and CodeLlama architectures.  
@@ -63,7 +63,7 @@ I am a dedicated software engineer with expertise in artificial intelligence, ma
 - **Paper:** [Pseudocoder: An Analysis of Various Architectures on Python Code-To-Pseudocode Translation](https://www.linkedin.com/in/wenda-gu/details/featured/1736414206055/)  
 
 ### Language Models for Actionable Robot Instructions  
-**November 2020 – May 2022**  
+**November 2020 – May 2022, [INK Research Lab @USC](https://inklab.usc.edu)**  
 
 - **Objective:** Enable robots to execute real-world tasks using AI-generated instructions.  
 - **Approach:** Integrated supervised learning into the ALFRED robotics framework, optimizing training for multi-core GPU systems.  
