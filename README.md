@@ -10,13 +10,12 @@ I am a dedicated software engineer with expertise in artificial intelligence, ma
 
 ## Key Skills  
 
-- **AI and Machine Learning:** NLP, Large Language Models, Speech Processing, Real-time AI Systems  
-- **Tools and Platforms:** AWS (Certified Solutions Architect), Tencent Cloud, Git, Linux  
-- **Development Practices:** Test-Driven Development (TDD), Agile, Team Collaboration Tools (Jira, Trello)  
-- **Specialty Areas:** Full-stack Development, AI Integration, Edge Computing  
-- **Programming Languages:** Python, Java, JavaScript, C/C++, HTML/CSS, SQL  
-- **Languages:** Fluent in English and Mandarin; Conversational Japanese; Intermediate French  
 - **Certifications:** AWS Certified Solutions Architect – Associate  
+- **AI and Machine Learning:** NLP, Large Language Models, Speech Processing, Real-time AI Systems  
+- **Cloud Development:** AWS (Certified Solutions Architect), Tencent Cloud
+- **Specialty Areas:** Full-stack Development, AI Integration, Edge Computing  
+- **Programming Languages:** Python, C/C++, Bash, Java, JavaScript, HTML/CSS, SQL  
+- **Languages:** Fluent in English and Chinese; Intermediate French; Conversational Japanese  
 
 ---
 
@@ -25,7 +24,7 @@ I am a dedicated software engineer with expertise in artificial intelligence, ma
 ### Software Engineer - Full Stack   
 **Shanghai Bluesea Medical Technology Co., Ltd.** | May 2024 – Present  
 
-- **Automated Repetitive Tasks:** Developed a Python tool that generates conference materials (name cards, badges, slides), reducing processing time from 3 hours to 10 minutes and improving productivity by 1800%.  
+- **Automated Repetitive Tasks:** Developed a Python tool that generates conference materials (name cards, badges, slides), reducing processing time from 3 hours to 10 minutes and improving productivity by 1800%. [Video Demo]()  
 - **User-Centered Design:** Designed an intuitive Tkinter-based interface with system theme detection, enabling non-technical staff to use the tool with ease.  
 - **Collaborative Problem-Solving:** Worked closely with internal teams to refine requirements and ensure the tool met operational needs.  
 
@@ -61,7 +60,7 @@ I am a dedicated software engineer with expertise in artificial intelligence, ma
 - **Approach:** Implemented Python-based solutions using RNN, Transformer, and CodeLlama architectures.  
 - **Innovation:** Developed custom evaluation metrics (BLEU, ROUGE, semantic similarity) to measure translation quality.  
 - **Outcome:** Fine-tuned CodeLlama-7b with PEFT for efficient adaptation.  
-- **Publication:** [Pseudocoder: An Analysis of Various Architectures on Python Code-To-Pseudocode Translation](https://www.linkedin.com/in/wenda-gu/details/featured/1736414206055/)  
+- **Paper:** [Pseudocoder: An Analysis of Various Architectures on Python Code-To-Pseudocode Translation](https://www.linkedin.com/in/wenda-gu/details/featured/1736414206055/)  
 
 ### Language Models for Actionable Robot Instructions  
 **November 2020 – May 2022**  
