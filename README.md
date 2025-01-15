@@ -10,7 +10,7 @@ I am a dedicated software engineer with expertise in artificial intelligence, ma
 
 ## Key Skills  
 
-- **Certifications:** AWS Certified Solutions Architect – Associate  
+- **Certifications:** [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/6c4b5208-4cfe-4d31-a4ab-986d102f6532/public_url)  
 - **AI and Machine Learning:** NLP, Large Language Models, Speech Processing, Real-time AI Systems  
 - **Cloud Development:** AWS (Certified Solutions Architect), Tencent Cloud
 - **Specialty Areas:** Full-stack Development, AI Integration, Edge Computing  
@@ -79,4 +79,4 @@ I am a dedicated software engineer with expertise in artificial intelligence, ma
 University of Southern California | Aug 2017 – Aug 2024  
 
 - **Relevant Coursework:** Natural Language Processing, Speech Synthesis and Recognition, Human Language as Computation  
-- **Dean's List:** Fall 2023, Fall 2019  
+- **Dean's List:** [Fall 2023](https://dornsife.usc.edu/deans-list/wp-content/uploads/sites/93/2024/06/Fall-2023-Dornsife-Deans-List-UDATE-06-27-24-1.pdf), [Fall 2019](https://dornsife.usc.edu/deans-list/wp-content/uploads/sites/93/2022/12/Fall-2019-Deans-List.pdf)
